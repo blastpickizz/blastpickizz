@@ -1,6 +1,6 @@
 - 👋 Oioi eu sou a Isabela Moreno 
 - 👀 Sou estudante de desenvolvimentos de sistemas
-- 🌱 Estou aprensando sobre JAVASCRIPT< HTML< CSS< DESIGN DIGITAL E ALGORITMOS
+- 🌱 Estou aprendendo JAVASCRIPT< HTML< CSS< DESIGN DIGITAL E ALGORITMOS
 - 📫 isabelamoreno121@gmail.com
 
 <!---
